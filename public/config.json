@@ -1,0 +1,19 @@
+{
+
+  "uniqueId": "shalom_chris",
+  "fontSize": 64,
+  "fontWeight": 800,
+  "fadeIn": 2000,
+  "fadeOut": 2000,
+  "fadeAfter": 5000,
+  "textColour": "#ffffff",
+  "nameColour": "#32C3A6",
+
+  "sounds": {
+    "rose": "/sounds/enchanted.wav",
+    "default": null
+  },
+
+  "volume": 0.2
+
+}
