@@ -76,6 +76,6 @@ setInterval(() => {
 app.use(express.static('public'));
 
 // Start http listener
-const port = process.env.PORT || 8081;
+const port = process.env.PORT || 8082;
 httpServer.listen(port);
 console.info(`Server running! Widget is available at http://localhost:${port} as of now!`);
