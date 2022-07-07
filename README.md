@@ -1,4 +1,6 @@
-# TikTok Gift Notification Widget
+TikTok Gift Notification Widget
+===========
+Gift & Subscriber notifications for TikTok
 
 My Discord (NO SUPPORT): https://discord.gg/e2XwPNTBBr
 
