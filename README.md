@@ -1,5 +1,7 @@
 # TikTok Gift Notification Widget
 
+My Discord (NO SUPPORT): https://discord.gg/e2XwPNTBBr
+
 ## Installation
 To run the chat reader locally, follow these steps:
 
