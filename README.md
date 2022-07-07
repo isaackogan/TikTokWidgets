@@ -14,6 +14,6 @@ To run the chat reader locally, follow these steps:
 5. Enter `node server.js` to start the application server
 
 Now you should see the following message: `Server running! Please visit http://localhost:8081`<br>
-Add `http://localhost:8081` as a bowser source in OBS.
+Add `http://localhost:8082` as a bowser source in OBS.
 
 <img src="https://i.imgur.com/JnvK7zF.gif" width=400></img>
