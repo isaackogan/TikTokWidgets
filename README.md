@@ -4,6 +4,11 @@ Gift & Subscriber notifications for TikTok
 
 My Discord (NO SUPPORT): https://discord.gg/e2XwPNTBBr
 
+## Important: Notice about Sounds
+
+Sounds will not work unless you click/interact with the page first after loading it
+due to a browser security feature preventing malicious popups & sounds.
+
 ## Installation
 To run the chat reader locally, follow these steps:
 

@@ -1,6 +1,6 @@
 {
 
-  "uniqueId": "shalom_chris",
+  "uniqueId": "santajclaus",
   "fontSize": 64,
   "fontWeight": 800,
   "fadeIn": 2000,
@@ -10,9 +10,21 @@
   "nameColour": "#32C3A6",
 
   "sounds": {
-    "rose": "/sounds/enchanted.wav",
-    "default": null
+    "gift": {
+      "rose": "/sounds/enchanted.wav",
+      "default": null
+    },
+    "subscribe": "/sounds/enchanted.wav",
+    "follow": "/sounds/enchanted.wav"
   },
+
+  "enabled": {
+    "gift": true,
+    "subscribe": true,
+    "follow": true
+  },
+
+  "firstFollowOnly": true,
 
   "volume": 0.2
 
