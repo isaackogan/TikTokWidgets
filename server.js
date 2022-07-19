@@ -58,6 +58,7 @@ io.on('connection', (socket) => {
         tiktokConnectionWrapper.connection.on('linkMicBattle', msg => socket.emit('linkMicBattle', msg));
         tiktokConnectionWrapper.connection.on('linkMicArmies', msg => socket.emit('linkMicArmies', msg));
         tiktokConnectionWrapper.connection.on('liveIntro', msg => socket.emit('liveIntro', msg));
+        tiktokConnectionWrapper.connection.on('subscribe', msg => socket.emit('subscribe', msg)); // sorry zerody lmao
     });
 
     socket.on('disconnect', () => {
