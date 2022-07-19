@@ -20,7 +20,7 @@
 
   "enabled": {
     "gift": true,
-    "subscribe": true,
+    "subscribe": false,
     "follow": true
   },
 
